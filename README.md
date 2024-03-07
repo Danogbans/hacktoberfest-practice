@@ -18,7 +18,7 @@ What is it? Click on the poster below to watch the video for more details 📽
 
 Repository for you to raise a Pull Request to **practice** open-source! 🎉
 
-### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too)
+### Add your name to the alphabetical list and, optionally, a link to your GitHub account (in alphabetical order below your letter too) 
 
 ### Option 1. Complete this process in GitHub (in your browser)
 
