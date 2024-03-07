@@ -8,7 +8,7 @@ We have other [repositories](https://github.com/orgs/EddieHubCommunity/repositor
 
 ## Hacktoberfest
 
-What is it? Click on the poster below to watch the video for more details 📽
+What is it? Click on the poster below to watch the video for more details 📽 
 
 [![Watch The Video](https://user-images.githubusercontent.com/61582763/94226800-1d0d5d80-ff16-11ea-8097-689ec7b5af69.png)](https://youtu.be/tjH6txTiC6E)
 
